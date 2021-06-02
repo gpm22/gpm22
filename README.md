@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Pachêco Milhomem - @gpm22;
 - :rocket: I'm an Aerospace Engineer who loves science :heart: :heart: :heart:;
-- 👀 I’m interested in become a web and mobile developer;
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Kotlin, and Python;
+- 👀 I’m interested in become a web back-end developer;
+- 🌱 I’m currently learning Java, .NET, JavaScript, HTML, CSS, Kotlin, and Python;
 - 💞️ I’m looking to collaborate on open projects about science and related content;
 - 📫 How to reach me: 
                       :email:    gabrielpacmil2@gmail.com
