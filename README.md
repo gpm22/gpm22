@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Pachêco Milhomem - @gpm22;
-- :rocket: I'm an Aerospace Engineer and a back-end developer who loves science :heart: :heart: :heart:;
+- :rocket: I'm an Aerospace Engineer and a full stack developer who loves science :heart: :heart: :heart:;
 - 👀 I’m interested in learn more about cybersecurity;
 - 🌱 I’m currently learning Java, Spring Boot, .NET, JavaScript, Angular, React, Kotlin, and Python;
 - 💞️ I’m looking to collaborate on open projects about science and related content;
