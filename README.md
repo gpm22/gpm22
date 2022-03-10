@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m **Gabriel** - **@gpm22;**
-- :rocket: I'm an **Aerospace Engineer** and a **Web Developer** who loves science!!! :heart: :heart: :heart:;
+- :rocket: I'm an **Aerospace Engineer** and a **Web Developer** who loves science :heart: :heart: :heart:;
 - 👀 I’m interested in learn more about:
   - Algorithms;
   - Design Patterns
@@ -21,9 +21,9 @@
   - **Others:**
     - AWS
 - 💞️ I’m looking to collaborate on open projects about science and related content;
-- 📫 How to reach me: 
-      - :email:    gabrielpacmil2@gmail.com
-      - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136](https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136);
+- 📫 How to reach me:
+  - :email: gabrielpacmil2@gmail.com 
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136](https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136);
 
 ## Main Repositories
 
