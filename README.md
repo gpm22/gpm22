@@ -22,8 +22,8 @@
     - AWS
 - 💞️ I’m looking to collaborate on open projects about science and related content;
 - 📫 How to reach me: 
-      :email:    gabrielpacmil2@gmail.com
-      [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136](https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136);
+      - :email:    gabrielpacmil2@gmail.com
+      - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136](https://linkedin.com/in/gabriel-pachêco-milhomem-a176a7136);
 
 ## Main Repositories
 
