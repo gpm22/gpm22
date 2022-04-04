@@ -35,6 +35,14 @@
 
 ​	It is a web application for managing user data.
 
+### [OSSU-Projects](https://github.com/gpm22/ossu-projects)
+
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+
+​	It is where my projects made for the OSSU course are.
+
+​	My OSSU progress can be seen in [OSSU progress](https://trello.com/b/DIZv8gOk/ossu-progress).
+
 ## My GitHub Stats
 
 <div align="center">
