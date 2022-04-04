@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning the following **technologies**:
   - **Languages**:
     - Java
-    - JavaScript
+    - JavaScript/Node
     - Kotlin
     - Python
   - **Frameworks**, **Modules**, and **Libraries**:
@@ -20,6 +20,7 @@
     - jQuery
   - **Others:**
     - AWS
+    - Docker
 - 💞️ I’m looking to collaborate on open projects about science and related content;
 - 📫 How to reach me:
   - :email: gabrielpacmil2@gmail.com 
