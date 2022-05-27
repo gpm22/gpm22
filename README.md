@@ -12,6 +12,7 @@
     - JavaScript/Node
     - Kotlin
     - Python
+    - Racket
   - **Frameworks**, **Modules**, and **Libraries**:
     - Spring (boot, data, security, and etc.),
     - Hibernate
