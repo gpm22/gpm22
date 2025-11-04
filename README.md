@@ -30,8 +30,7 @@
     - MySQL
 - 💞️ I’m looking to collaborate on open projects about science and related content;
 - 📫 How to reach me:
-  - :email: gabrielpacmil2@gmail.com 
-  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://www.linkedin.com/in/gabriel-milhomem-a176a7136/](https://www.linkedin.com/in/gabriel-milhomem-a176a7136/);
+  - :email: gabrielpacmil2@gmail.com
 
 ## Main Repositories
 
@@ -58,12 +57,3 @@
 ### [Books Exercises](https://github.com/gpm22/BookExercises)
 
   It contains codes of solved exercises from various books and online challenges, organized by programming language and book.
-
-## My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/gpm22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpm22&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
-
